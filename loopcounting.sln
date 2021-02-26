@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loopcounting", "loopcounting\loopcounting.csproj", "{A955DA1B-DCDC-4C98-AECF-84291451027F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A955DA1B-DCDC-4C98-AECF-84291451027F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A955DA1B-DCDC-4C98-AECF-84291451027F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A955DA1B-DCDC-4C98-AECF-84291451027F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A955DA1B-DCDC-4C98-AECF-84291451027F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C500D22-570A-4546-BBBE-98A54ECC3AF3}
+	EndGlobalSection
+EndGlobal
